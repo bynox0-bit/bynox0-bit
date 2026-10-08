@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**bynox0-bit/bynox0-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--# Hi, I'm Naina 👋
 
-Here are some ideas to get you started:
+**AI Automation Learner | Workflow & CRM Automation**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning and building practical automation workflows using **Make, Airtable, and GoHighLevel**.
+
+### 🛠 Tools
+
+Make · Airtable · GoHighLevel · GitHub · AI Tools
+
+### 🚀 Currently Working On
+
+AI-powered workflows, CRM automation, lead management, and business process automation.
+
+### 📫 Connect With Me
+
+GitHub · LinkedIn · Email
+
+**bynox0-bit/bynox0-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
